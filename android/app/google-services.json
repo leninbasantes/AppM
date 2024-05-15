@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314073085393",
+    "project_id": "app-alertaglobal-dev",
+    "storage_bucket": "app-alertaglobal-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314073085393:android:bdc7d19f6eae577fe69cf0",
+        "android_client_info": {
+          "package_name": "com.constecoin.alertaglobal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI6xtxF1152jVaDbJYyWVT_yfBK9TjuhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
